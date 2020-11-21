@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-**TeleOniOn/TeleOniOn** is a ✨ _special_ ✨ repository because its `README.md` (this fur GitHub profile.
-
-
 # TeleOniOn - FOR IRAQ
 
 <p align="center">
@@ -11,7 +5,6 @@
 <img src="https://h.top4top.io/p_17853y2310.jpg" alt="Teleonion">
 
 Best User Bot To Manage Your Telegram Account 
-
 ## © By Team #TeleOniOn™
 
 ### For any query or want to know how it works join Group And Channel 
@@ -41,14 +34,3 @@ virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 
 pip install -r requirements.txt
-
-
-
-
-
-
-
-
-
-
-
